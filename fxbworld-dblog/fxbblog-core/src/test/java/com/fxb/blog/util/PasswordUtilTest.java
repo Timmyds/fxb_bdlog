@@ -1,10 +1,10 @@
-package com.fxb.blog.util;
+/*package com.fxb.blog.util;
 
 import org.junit.Test;
 
 import com.fxb.blog.util.PasswordUtil;
 
-/**
+*//**
  * 密码加密测试工具类
  *
  * @author  
@@ -12,7 +12,7 @@ import com.fxb.blog.util.PasswordUtil;
  * @website  
  * @date 2018/4/18 11:48
  * @since 1.0
- */
+ *//*
 public class PasswordUtilTest {
 
     @Test
@@ -27,4 +27,4 @@ public class PasswordUtilTest {
         System.out.println(decrypt);
     }
 
-}
+}*/

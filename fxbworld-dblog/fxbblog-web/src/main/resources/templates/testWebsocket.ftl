@@ -38,7 +38,7 @@
     }
 
     $.websocket.open({
-        host: "ws://localhost:8443/websocket",
+        host: "ws://www.fxbworld.cn/websocket",
         reconnect: true,
         callback: setMessageInnerHTML
     });

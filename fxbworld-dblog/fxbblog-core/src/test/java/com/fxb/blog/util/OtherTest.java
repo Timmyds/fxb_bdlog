@@ -1,4 +1,4 @@
-package com.fxb.blog.util;
+/*package com.fxb.blog.util;
 
 import org.assertj.core.util.Arrays;
 import org.junit.Test;
@@ -8,12 +8,12 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
+*//**
  * @author  
  * @version 1.0
  * @date 2018/4/23 11:35
  * @since 1.0
- */
+ *//*
 public class OtherTest {
 
     private String projectPath = "D:\\fxb-project\\开源项目\\DBlog\\";
@@ -92,3 +92,4 @@ public class OtherTest {
         });
     }
 }
+*/
