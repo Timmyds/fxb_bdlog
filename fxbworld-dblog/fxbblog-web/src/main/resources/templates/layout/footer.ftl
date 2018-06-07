@@ -18,12 +18,10 @@
                     <div class="clear"></div>
                     <ul class="list-unstyled list-inline search-hot">
                         <li><strong style="position: relative;top: 2px;color: #999999;">热门搜索：</strong></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-default">Java</span></a></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-primary">Springboot</span></a></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-success">Linux</span></a></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-info">Maven</span></a></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-warning">Bootstrap</span></a></li>
-                        <li><a class="pointer" rel="external nofollow"><span class="label label-danger">阿里云</span></a></li>
+                        <li><a class="pointer" rel="external nofollow"><span class="label label-default">人像</span></a></li>
+                        <li><a class="pointer" rel="external nofollow"><span class="label label-primary">后期</span></a></li>
+                        <li><a class="pointer" rel="external nofollow"><span class="label label-success">风光</span></a></li>
+                        <li><a class="pointer" rel="external nofollow"><span class="label label-info">ps</span></a></li>
                     </ul>
                 </form>
             </div>
@@ -125,7 +123,7 @@
 </div>
 <footer class="footer">
     <div class="clear">
-        <p><a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action" target="_blank" title="查看备案信息" data-toggle="tooltip" data-placement="bottom" rel="external nofollow">粤ICP备15112085号-1</a></p>
+        <p>粤ICP备15112085号-1</p>
         <p>Copyright&copy;2016-${.now?string("yyyy")} ${config.siteName}</p>
     </div>
 </footer>
