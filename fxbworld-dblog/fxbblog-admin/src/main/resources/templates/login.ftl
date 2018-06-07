@@ -24,7 +24,7 @@
                     <div class="animate form login_form" style="position: relative;">
                         <section class="login_content">
                             <form action="/passport/signin" method="POST" id="login-form">
-                                <h1>登录管理系统</h1>
+                                <h1>登录</h1>
                                 <#if message?exists>
                                     <div class="alert alert-danger" role="alert">
                                         ${message?if_exists}
@@ -57,8 +57,8 @@
                                     <p class="change_link">没有账号? <a href="#signup" class="to_register"> 注册账号 </a></p>
                                     <div class="clearfix"></div>
                                     <div>
-                                        <h1><i class="fa fa-coffee"></i> 博客后台管理系统</h1>
-                                        <p>Copyright © 2018 fxb.me. All Rights Reserved. </p>
+                                        <h1><i class="fa fa-coffee"></i>后台管理系统</h1>
+                                        <p>Copyright © 2018  </p>
                                     </div>
                                 </div>
                             </form>
