@@ -1,5 +1,5 @@
 <#include "include/macros.ftl">
-<@header title="${config.siteName} | 个人分享博客"
+<@header title="${config.siteName}"
     keywords="${config.homeKeywords?if_exists}"
     description="${config.homeDesc?if_exists}"
     canonical="/${url?if_exists}">
@@ -90,11 +90,10 @@
                         <div class="clear" style="margin-bottom: 10px"></div>
                         <ul class="list-unstyled list-inline search-hot">
                             <li><strong style="position: relative;top: 2px;color: #999999;">热门搜索：</strong></li>
-                            <li><a class="pointer" rel="external nofollow"><span class="label label-default">Java</span></a></li>
-                            <li><a class="pointer" rel="external nofollow"><span class="label label-primary">Springboot</span></a></li>
-                            <li><a class="pointer" rel="external nofollow"><span class="label label-success">Linux</span></a></li>
-                            <li><a class="pointer" rel="external nofollow"><span class="label label-info">Maven</span></a></li>
-                            <li><a class="pointer" rel="external nofollow"><span class="label label-warning">Bootstrap</span></a></li>
+                           <li><a class="pointer" rel="external nofollow"><span class="label label-default">人像</span></a></li>
+                        	<li><a class="pointer" rel="external nofollow"><span class="label label-primary">后期</span></a></li>
+                        	<li><a class="pointer" rel="external nofollow"><span class="label label-success">风光</span></a></li>
+                        	<li><a class="pointer" rel="external nofollow"><span class="label label-info">ps</span></a></li>
                         </ul>
                     </form>
                 </article>

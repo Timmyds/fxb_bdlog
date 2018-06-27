@@ -1,6 +1,5 @@
 <#-- 公共顶部 -->
 <#macro header title="博客" keywords="默认文字" description="默认文字" canonical="">
-<#include "/common/annotation.ftl">
 <!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
@@ -60,7 +59,7 @@
                 |
                 <a href="" target="_blank" title="点击给我发邮件" rel="external nofollow"><i class="fa fa fa-envelope fa-fw"></i>邮箱联系</a>
                 |
-                <a href="" target="_blank" title="点击查看我的微博" rel="external nofollow"><i class="fa fa fa-weibo fa-fw"></i>@七彩狼丿</a>
+                <a href="" target="_blank" title="点击查看我的微博" rel="external nofollow"><i class="fa fa fa-weibo fa-fw"></i>@</a>
             </div> -->
         </div>
     </div>
